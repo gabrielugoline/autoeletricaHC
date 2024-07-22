@@ -5,6 +5,7 @@
 ## :computer: Linguagens:
 • HTML <br>
 • CSS <br>
+• SCSS <br>
 • JavaScript 
 
   
